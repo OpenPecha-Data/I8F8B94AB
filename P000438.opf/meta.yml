@@ -3,5 +3,27 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG03976
   title: གསུང་འབུམ། འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས
-  volume: ''
+  volume:
+    4a186d6258324bda854dee0ec63285da:
+      image_group_id: I00KG03978
+      title: Volume 1 of gsung 'bum/_'jigs med phun tshogs 'byung gnas
+      volume_number: 1
+      total_pages: 175
+    a023e4245e254ba2867f571a4325224c:
+      image_group_id: I00KG03979
+      title: Volume 2 of gsung 'bum/_'jigs med phun tshogs 'byung gnas
+      volume_number: 2
+      total_pages: 176
+    288c809b2f16430ba8df264de16051e6:
+      image_group_id: I00KG03980
+      title: Volume 3 of gsung 'bum/_'jigs med phun tshogs 'byung gnas
+      volume_number: 3
+      total_pages: 220
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས
+  author: ''
+  sku: P000438
+  cover: cover.jpg
+  layers:
+  - pagination
